@@ -17,4 +17,4 @@ services:
       - key: JWT_REFRESH_SECRET
         generateValue: true
       - key: CLIENT_URL
-        sync: false
+        value: https://frontend-kq13fztpu-im-prakashs-projects.vercel.app
